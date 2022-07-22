@@ -10,7 +10,7 @@ I created a mongoDb pod with an internal service and a mongoexpress pod with an 
 - mongoexpress service 
 - mongodb configmap
 
-You should install minikube and kubectl installed in your machine to run the code.
+You should install minikube and kubectl on your machine to run the code.
 
 ### Run locally:
 - clone the code repository : `git clonehttps://github.com/AnwarHb/mongodb_k8s.git `
